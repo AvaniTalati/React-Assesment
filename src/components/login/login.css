@@ -1,0 +1,50 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #5bc1e4;
+    margin: 14% 10% 17% 20%;
+
+}
+.inputFieldContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.label{
+    margin-top: 20px;text-align: right;
+    width: 90px;
+}
+.emailtext{
+    padding: 10px;
+    /* width: 40%; */
+    height: 10px;
+    background-color: white;
+    border: 1px solid gray;
+    margin: 20px 0px 0px 20px;
+
+}
+.loginText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.btnContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.submitBtn{
+    background-color: pink;
+    color: black;
+    /* width: 50px; */
+    padding: 10px;
+    border: 1px solid pink;
+    border-radius: 10px;
+    cursor: pointer;
+}
